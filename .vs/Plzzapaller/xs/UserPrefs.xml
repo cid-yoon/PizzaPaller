@@ -1,16 +1,20 @@
-﻿<Properties StartupConfiguration="{AFB79911-5AE2-41D1-8C5F-A30080571DBC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{AFB79911-5AE2-41D1-8C5F-A30080571DBC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pizzapaller 상태">
     <Files>
       <File FileName="appsettings.Development.json" Line="1" Column="1" />
       <File FileName="appsettings.json" Line="9" Column="21" />
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="21" Column="47" />
+      <File FileName="Properties/launchSettings.json" Line="26" Column="40" />
+      <File FileName="pizzapaller 상태" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Plzzapaller" expanded="True">
             <Node name="Plzzapaller" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
